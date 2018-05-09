@@ -1,6 +1,7 @@
-# vue-cli-demo
+# Vue-Node-MongoDB-Mall
 
-> A Vue.js project
+> Vue-Node-MongoDB-Mall
+> Vue2.0+Node.js+MongoDB全栈打造商城系统
 
 ## Build Setup
 
